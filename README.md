@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Splutox/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Splutox/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Splutox/OsTicket--Post-Installation-Config.)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Splutox/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Splutox/configure-ad)
