@@ -5,10 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Splutox/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Splutox/OsTicket--Post-Installation-Config.)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Splutox/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Splutox/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Splutox/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
