@@ -5,6 +5,8 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Splutox/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Splutox/OsTicket--Post-Installation-Config.)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Splutox/Osticket-Lifecycle-Examples/tree/main)
+
 
 
 <h2>🤳Connect with me:</h2>
